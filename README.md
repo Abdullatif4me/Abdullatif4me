@@ -1,6 +1,6 @@
  ABOUT ME
 Hi, I’m Abdul-Latif Braimah
-I’m interested in Data Analytics and Data Sxience. I love lrarn anf explore New Technologies and programmes, developing and improving my skills and growing. 
+I’m a Data Analyst. I love learn and explore New Technologies and programmes, developing and improving my skills and growing. 
 I have profciency in Excel, SQL, POWER BI and Tableau. Currently I am learning python. This will boost my Data Analytics skills.
 I would like to collaborate with like minded colleagues here.
 CERTIFICATION

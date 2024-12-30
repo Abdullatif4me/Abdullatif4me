@@ -9,8 +9,7 @@ dot. Digital skills Course
 Aspire Online Leadership Course
 CONTACT ME 
 Email: abdullatifbraimah0@gmail.com
-Linkedin: https://www.linkedin.com/in/abdul-latif-braimah-7b7a2a1a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
+Linkedin: https://shorturl.at/6hN32
 <!---
 Abdullatif4me/Abdullatif4me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

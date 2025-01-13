@@ -1,5 +1,5 @@
-**ACME North America Sales Report
-**
+ACME North America Sales Report
+
 This project provides an in-depth analysis of ACME's sales performance in North America (United States and Canada). The aim is to offer actionable insights for management to optimize production, improve services, and enhance sales.
 
 Objectives
